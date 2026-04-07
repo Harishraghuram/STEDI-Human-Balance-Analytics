@@ -12,4 +12,4 @@ The project follows a layered data architecture:
 - **Trusted Zone** – Cleaned and validated data
 - **Curated Zone** – Analytics-ready datasets
 
-Data is stored and processed using AWS services such as S3 Bucket, Glue Studio, and Athena.
+Data is stored and processed using AWS services such as S3 Bucket, Data Catalog, Glue Studio, and Athena.
